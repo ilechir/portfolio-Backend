@@ -11,7 +11,7 @@
 	<groupId>com.myPortfolio</groupId>
 	<artifactId>IC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>IC</name>
+	<name>IC2</name>
 	<description>Portfolio De Ileana Chirino</description>
 	<properties>
 		<java.version>1.8</java.version>
